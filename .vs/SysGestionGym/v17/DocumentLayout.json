@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\bdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\bdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Cliente.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Cliente.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Cliente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:09:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Membresia.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Membresia.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Membresia.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Membresia.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Membresia.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:06:43.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Pago.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Pago.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Pago.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Pago.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:57:55.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Usuario.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Usuario.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:37:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Rol.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Rol.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Rol.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:33:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BdContext.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\BdContext.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\BdContext.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\BdContext.cs",
+              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\BdContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:31:36.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

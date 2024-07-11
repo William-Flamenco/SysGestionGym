@@ -1,0 +1,14 @@
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.deps.json
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.runtimeconfig.json
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.AssemblyInfo.cs
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\refint\SysGestionGym.EntidadDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadDeNegocio.genruntimeconfig.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.EntidadDeNegocio\obj\Debug\net8.0\ref\SysGestionGym.EntidadDeNegocio.dll

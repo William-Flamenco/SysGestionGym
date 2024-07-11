@@ -1,0 +1,17 @@
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.deps.json
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.AccesoADatos.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGesti.DC3F96C8.Up2Date
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\refint\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\ref\SysGestionGym.LogicaDeNegocio.dll
