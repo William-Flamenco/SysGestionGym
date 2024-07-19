@@ -966,6 +966,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "SysGestionGym.EntidadDeNegocio": "1.0.0"
         },
         "compile": {
@@ -2693,8 +2695,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "SysGestionGym.AccesoADatos >= 1.0.0",
-      "SysGestionGym.EntidadDeNegocio >= 1.0.0"
+      "SysGestionGym.AccesoADatos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2726,9 +2727,6 @@
           "projectReferences": {
             "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj": {
               "projectPath": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj"
-            },
-            "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj": {
-              "projectPath": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj"
             }
           }
         }

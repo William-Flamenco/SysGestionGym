@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SysGestionGym.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567a01bd0d6f9bea7b43589e8dec0a1b25ecd9d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SysGestionGym.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SysGestionGym.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

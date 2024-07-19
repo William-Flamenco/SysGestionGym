@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AD8357F-300E-4D83-B914-788A674BD200}|SysGestionGym.LogicaDeNegocio\\SysGestionGym.LogicaDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.logicadenegocio\\rolbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8357F-300E-4D83-B914-788A674BD200}|SysGestionGym.LogicaDeNegocio\\SysGestionGym.LogicaDeNegocio.csproj|solutionrelative:sysgestiongym.logicadenegocio\\rolbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|solutionrelative:sysgestiongym.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.webapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|solutionrelative:sysgestiongym.webapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.webapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|solutionrelative:sysgestiongym.webapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A519673-ABD9-43DB-961B-2856D0C4EB17}|SysGestionGym.WebAPI\\SysGestionGym.WebAPI.csproj|solutionrelative:sysgestiongym.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.entidaddenegocio\\bdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D74E319-5209-4256-BC01-5F4E8CF0E757}|SysGestionGym.EntidadDeNegocio\\SysGestionGym.EntidadDeNegocio.csproj|solutionrelative:sysgestiongym.entidaddenegocio\\bdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.accesoadatos\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|solutionrelative:sysgestiongym.accesoadatos\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.accesoadatos\\pagodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|solutionrelative:sysgestiongym.accesoadatos\\pagodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8357F-300E-4D83-B914-788A674BD200}|SysGestionGym.LogicaDeNegocio\\SysGestionGym.LogicaDeNegocio.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.logicadenegocio\\pagobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8357F-300E-4D83-B914-788A674BD200}|SysGestionGym.LogicaDeNegocio\\SysGestionGym.LogicaDeNegocio.csproj|solutionrelative:sysgestiongym.logicadenegocio\\pagobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.accesoadatos\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|solutionrelative:sysgestiongym.accesoadatos\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|c:\\users\\william\\desktop\\proyecto\\sysgestiongym\\sysgestiongym.accesoadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCA21CC-2933-45B2-AB37-04F49D5FD7A1}|SysGestionGym.AccesoADatos\\SysGestionGym.AccesoADatos.csproj|solutionrelative:sysgestiongym.accesoadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Cliente.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Cliente.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Cliente.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Cliente.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAvAAAA",
+              "DocumentIndex": 0,
+              "Title": "RolBL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.LogicaDeNegocio\\RolBL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.LogicaDeNegocio\\RolBL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.LogicaDeNegocio\\RolBL.cs",
+              "RelativeToolTip": "SysGestionGym.LogicaDeNegocio\\RolBL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:09:16.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Membresia.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Membresia.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Membresia.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Membresia.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Membresia.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:06:43.766Z"
+              "WhenOpened": "2024-07-19T15:33:53.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pago.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Pago.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Pago.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Pago.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Pago.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAArAAAA",
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.WebAPI\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "SysGestionGym.WebAPI\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T13:57:55.663Z"
+              "WhenOpened": "2024-07-19T15:33:31.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Usuario.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Usuario.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "DocumentIndex": 2,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.WebAPI\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\RolController.cs",
+              "RelativeToolTip": "SysGestionGym.WebAPI\\Controllers\\RolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T19:37:12.627Z",
+              "WhenOpened": "2024-07-19T15:33:10.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Rol.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\Rol.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\Rol.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.WebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SysGestionGym.WebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T19:33:20.872Z"
+              "WhenOpened": "2024-07-19T15:32:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.WebAPI\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.WebAPI\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "SysGestionGym.WebAPI\\Controllers\\PagoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:32:23.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BdContext.cs",
-              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\BdContext.cs",
-              "RelativeDocumentMoniker": "SysGestionGym.EntidadDeNegocio\\BdContext.cs",
-              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.EntidadDeNegocio\\BdContext.cs",
-              "RelativeToolTip": "SysGestionGym.EntidadDeNegocio\\BdContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA0AAAAXAAAA",
+              "Title": "RolDAL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\RolDAL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.AccesoADatos\\RolDAL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\RolDAL.cs",
+              "RelativeToolTip": "SysGestionGym.AccesoADatos\\RolDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T19:31:36.01Z"
+              "WhenOpened": "2024-07-19T15:32:10.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\PagoDAL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.AccesoADatos\\PagoDAL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\PagoDAL.cs",
+              "RelativeToolTip": "SysGestionGym.AccesoADatos\\PagoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:31:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagoBL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.LogicaDeNegocio\\PagoBL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.LogicaDeNegocio\\PagoBL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.LogicaDeNegocio\\PagoBL.cs",
+              "RelativeToolTip": "SysGestionGym.LogicaDeNegocio\\PagoBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:31:27.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.AccesoADatos\\UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\UsuarioDAL.cs",
+              "RelativeToolTip": "SysGestionGym.AccesoADatos\\UsuarioDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:31:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "SysGestionGym.AccesoADatos\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\Proyecto\\SysGestionGym\\SysGestionGym.AccesoADatos\\ClienteDAL.cs",
+              "RelativeToolTip": "SysGestionGym.AccesoADatos\\ClienteDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:26:52.102Z",
+              "EditorCaption": ""
             }
           ]
         }

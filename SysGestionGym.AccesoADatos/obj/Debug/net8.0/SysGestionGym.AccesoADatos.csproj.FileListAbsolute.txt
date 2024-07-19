@@ -13,3 +13,21 @@ C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGest
 C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\refint\SysGestionGym.AccesoADatos.dll
 C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.pdb
 C:\Users\William\Desktop\Proyecto Intermedio\SysGestionGym\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\ref\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.AccesoADatos.deps.json
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.AccesoADatos.pdb
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.EntidadDeNegocio.pdb
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.AssemblyInfo.cs
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.sourcelink.json
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGesti.58626853.Up2Date
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\refint\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.pdb
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\ref\SysGestionGym.AccesoADatos.dll
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.AccesoADatos.runtimeconfig.json
+C:\Users\William\Desktop\Proyecto\SysGestionGym\SysGestionGym.AccesoADatos\obj\Debug\net8.0\SysGestionGym.AccesoADatos.genruntimeconfig.cache

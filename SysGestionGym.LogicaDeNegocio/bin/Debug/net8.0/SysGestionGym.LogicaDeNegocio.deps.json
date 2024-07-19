@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "SysGestionGym.LogicaDeNegocio/1.0.0": {
         "dependencies": {
-          "SysGestionGym.AccesoADatos": "1.0.0",
-          "SysGestionGym.EntidadDeNegocio": "1.0.0"
+          "SysGestionGym.AccesoADatos": "1.0.0"
         },
         "runtime": {
           "SysGestionGym.LogicaDeNegocio.dll": {}
@@ -554,6 +553,8 @@
       },
       "SysGestionGym.AccesoADatos/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "SysGestionGym.EntidadDeNegocio": "1.0.0"
         },
         "runtime": {

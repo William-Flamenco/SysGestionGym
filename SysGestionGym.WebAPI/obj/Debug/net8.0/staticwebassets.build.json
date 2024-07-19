@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "96aLblERvno8HhF0N4uKmZqsIIlEK3sHQg8YiF1CLos=",
+  "Source": "SysGestionGym.WebAPI",
+  "BasePath": "_content/SysGestionGym.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

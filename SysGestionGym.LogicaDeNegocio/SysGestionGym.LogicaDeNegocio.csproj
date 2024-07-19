@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SysGestionGym.AccesoADatos\SysGestionGym.AccesoADatos.csproj" />
-    <ProjectReference Include="..\SysGestionGym.EntidadDeNegocio\SysGestionGym.EntidadDeNegocio.csproj" />
   </ItemGroup>
 
 </Project>
